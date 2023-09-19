@@ -7,7 +7,7 @@
 
 ### 스웨거 API 정리 문서
 
-[API 문서 바로가기]("http://13.125.225.95:8080/swagger-ui.html#/)
+[API 문서 바로가기](http://13.125.225.95:8080/swagger-ui.html#/)
 
 
 ## IWI REPT
